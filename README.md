@@ -1,0 +1,6 @@
+vip
+===
+
+document
+
+hello world
